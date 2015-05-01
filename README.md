@@ -1,0 +1,2 @@
+# libtrap
+TRAP protocol library
